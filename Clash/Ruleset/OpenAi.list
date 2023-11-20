@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,bingapis.com
 
 #claude2
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,usefathom.com
