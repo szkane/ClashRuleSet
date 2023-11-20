@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
+
+#claude2
+DOMAIN-SUFFIX,anthropic.com
