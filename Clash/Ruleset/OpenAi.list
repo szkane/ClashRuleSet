@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,stripe.com
 
 #bing chat
 DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,copilot
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,bing.com
@@ -23,6 +24,7 @@ DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 
 #claude2
 DOMAIN-SUFFIX,anthropic.com
