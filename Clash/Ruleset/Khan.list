@@ -1,7 +1,14 @@
 DOMAIN-KEYWORD,khanacademy
+DOMAIN-KEYWORD,khanacademykids
 DOMAIN-SUFFIX,khanacademy.org
 DOMAIN-SUFFIX,kastatic.org
 DOMAIN-SUFFIX,kasandbox.org
 DOMAIN-SUFFIX,ka-cs-scratchpad-audio.s3.amazonaws.com
 DOMAIN-SUFFIX,khanacademy.zendesk.com
 DOMAIN-SUFFIX,d32qvxcu5urtof.cloudfront.net
+DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,3ea3hvfvpd.execute-api.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,www.khanacademykids.org
+DOMAIN-SUFFIX,khanacademykids.org
+DOMAIN-SUFFIX,learn.khanacademy.org
+DOMAIN-SUFFIX,khankids.zendesk.com
