@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
 
 #bing chat
 DOMAIN-KEYWORD,bing
