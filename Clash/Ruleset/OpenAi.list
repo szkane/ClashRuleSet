@@ -32,3 +32,6 @@ DOMAIN-SUFFIX,usefathom.com
 
 #poe
 DOMAIN-SUFFIX,poe.com
+
+#bard Google Gemini
+DOMAIN-SUFFIX,bard.google.com
