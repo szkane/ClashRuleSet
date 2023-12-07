@@ -434,26 +434,6 @@ DOMAIN-SUFFIX,countubn.light.soufun.com
 DOMAIN-SUFFIX,mshow.fang.com
 DOMAIN-SUFFIX,tongji.home.soufun.com
 
-# Google
-DOMAIN-SUFFIX,admob.com
-DOMAIN-SUFFIX,ads.gmodules.com
-DOMAIN-SUFFIX,ads.google.com
-DOMAIN-SUFFIX,adservice.google.com
-DOMAIN-SUFFIX,afd.l.google.com
-DOMAIN-SUFFIX,badad.googleplex.com
-DOMAIN-SUFFIX,csi.gstatic.com
-DOMAIN-SUFFIX,doubleclick.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleadsserving.cn
-DOMAIN-SUFFIX,googlecommerce.com
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,mobileads.google.com
-DOMAIN-SUFFIX,pagead-tpc.l.google.com
-DOMAIN-SUFFIX,pagead.google.com
-DOMAIN-SUFFIX,pagead.l.google.com
-DOMAIN-SUFFIX,service.urchin.com
 
 # JD
 DOMAIN-SUFFIX,ads.union.jd.com
