@@ -1,4 +1,4 @@
-# SSR去广告规则/GFWList规则/Clash规则碎片 Backup
+# 基于AC4SSR 修改的 Clash 规则个人使用，核心分类 OpenAI、Bing 等AI应用快速切换的漂亮国节点。
 
 * 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 仅推荐未root的安卓手机使用。
