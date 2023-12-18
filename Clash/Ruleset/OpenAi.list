@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,www.bingapis.com
 DOMAIN-SUFFIX,nav-edge.smartscreen.microsoft.com
 DOMAIN-SUFFIX,bat.bing.com
 DOMAIN-SUFFIX,designerapp.officeapps.live.com
-
+DOMAIN-SUFFIX,cdn.designerapp.osi.office.net
 
 #claude2
 DOMAIN-SUFFIX,anthropic.com
