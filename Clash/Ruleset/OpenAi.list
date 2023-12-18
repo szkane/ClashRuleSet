@@ -16,14 +16,21 @@ DOMAIN-SUFFIX,sentry.io
 #bing chat
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,edgeassetservice
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,www.bing.com
+DOMAIN-SUFFIX,www.bingapis.com
+DOMAIN-SUFFIX,nav-edge.smartscreen.microsoft.com
+DOMAIN-SUFFIX,bat.bing.com
+
 
 #claude2
 DOMAIN-SUFFIX,anthropic.com
