@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,1drv.ms
-
 # 国外域名
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
@@ -34,7 +33,6 @@ DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,ca
-
 # 国外域名关键字
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -56,7 +54,6 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
-
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,000webhost.com
@@ -1004,7 +1001,6 @@ DOMAIN-SUFFIX,clementine-player.org
 DOMAIN-SUFFIX,clinica-tibet.ru
 DOMAIN-SUFFIX,clipfish.de
 DOMAIN-SUFFIX,cloakpoint.com
-DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
@@ -1349,7 +1345,6 @@ DOMAIN-SUFFIX,dtiblog.com
 DOMAIN-SUFFIX,dtic.mil
 DOMAIN-SUFFIX,dtwang.org
 DOMAIN-SUFFIX,duanzhihu.com
-DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,duckduckgo.com
@@ -2716,7 +2711,6 @@ DOMAIN-SUFFIX,initiativesforchina.org
 DOMAIN-SUFFIX,inkui.com
 DOMAIN-SUFFIX,inmediahk.net
 DOMAIN-SUFFIX,innermongolia.org
-DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,inote.tw
 DOMAIN-SUFFIX,insecam.org
 DOMAIN-SUFFIX,inside.com.tw
@@ -3092,7 +3086,6 @@ DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,linglingfa.com
 DOMAIN-SUFFIX,lingvodics.com
 DOMAIN-SUFFIX,link-o-rama.com
-DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linkideo.com
 DOMAIN-SUFFIX,linksalpha.com
 DOMAIN-SUFFIX,linkuswell.com
@@ -4222,7 +4215,6 @@ DOMAIN-SUFFIX,redbubble.com
 DOMAIN-SUFFIX,redchinacn.net
 DOMAIN-SUFFIX,redchinacn.org
 DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditlist.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
@@ -4841,7 +4833,6 @@ DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
 DOMAIN-SUFFIX,teco-hk.org
 DOMAIN-SUFFIX,teco-mo.org
-DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,teeniefuck.net
 DOMAIN-SUFFIX,teensinasia.com
 DOMAIN-SUFFIX,tehrantimes.com
@@ -5988,11 +5979,7 @@ DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,gfwlist.end
-
 # Amazon
-DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazonaws.com
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
@@ -6008,47 +5995,29 @@ IP-CIDR,54.93.0.0/16,no-resolve
 IP-CIDR,54.156.0.0/14,no-resolve
 IP-CIDR,54.226.0.0/15,no-resolve
 IP-CIDR,54.230.156.0/22,no-resolve
-
 # BBC
 DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
-DOMAIN-SUFFIX,bbc.com
-
 # Developer 开发者常用国外网站、镜像和论坛
 DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,elastic.co
 DOMAIN-SUFFIX,elastic.com
-DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,maven.org
-DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,quay.io
-DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redhat.com
 DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
-DOMAIN-SUFFIX,stackoverflow.com
-
 # Discord
 DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
-
 # Facebook
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.com
-DOMAIN-SUFFIX,fbcdn.net
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
@@ -6063,39 +6032,16 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
-
 # Github
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
-
 # Google
 DOMAIN,dl.google.com
 DOMAIN-SUFFIX,googletraveladservices.com
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
-DOMAIN-SUFFIX,g.co
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,8.8.4.0/24,no-resolve
@@ -6123,7 +6069,6 @@ IP-CIDR,66.249.64.0/19,no-resolve
 IP-CIDR,70.32.128.0/19,no-resolve
 IP-CIDR,72.14.192.0/18,no-resolve
 IP-CIDR,74.114.24.0/21,no-resolve
-IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,104.154.0.0/15,no-resolve
 IP-CIDR,104.196.0.0/14,no-resolve
 IP-CIDR,104.237.160.0/19,no-resolve
@@ -6141,7 +6086,6 @@ IP-CIDR,162.222.176.0/21,no-resolve
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,172.217.0.0/16,no-resolve
 IP-CIDR,172.253.0.0/16,no-resolve
-IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,173.255.112.0/20,no-resolve
 IP-CIDR,192.158.28.0/22,no-resolve
 IP-CIDR,192.178.0.0/15,no-resolve
@@ -6224,7 +6168,6 @@ IP-CIDR,173.194.175.188/32,no-resolve
 IP-CIDR,173.194.218.188/32,no-resolve
 IP-CIDR,209.85.233.188/32,no-resolve
 DOMAIN-SUFFIX,265.com
-DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,alt1-mtalk.google.com
 DOMAIN-SUFFIX,alt2-mtalk.google.com
 DOMAIN-SUFFIX,alt3-mtalk.google.com
@@ -6244,7 +6187,6 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,ocsp.pki.goog
-DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,safebrowsing-cache.google.com
 DOMAIN-SUFFIX,settings.crashlytics.com
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
@@ -6252,65 +6194,11 @@ DOMAIN-SUFFIX,toolbarqueries.google.com
 DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,tools.l.google.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
-
 # Google China
-DOMAIN-SUFFIX,265.com
-DOMAIN-SUFFIX,2mdn.net
-DOMAIN-SUFFIX,alt1-mtalk.google.com
-DOMAIN-SUFFIX,alt2-mtalk.google.com
-DOMAIN-SUFFIX,alt3-mtalk.google.com
-DOMAIN-SUFFIX,alt4-mtalk.google.com
-DOMAIN-SUFFIX,alt5-mtalk.google.com
-DOMAIN-SUFFIX,alt6-mtalk.google.com
-DOMAIN-SUFFIX,alt7-mtalk.google.com
-DOMAIN-SUFFIX,alt8-mtalk.google.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,cache.pack.google.com
-DOMAIN-SUFFIX,clickserve.dartsearch.net
-DOMAIN-SUFFIX,crl.pki.goog
-DOMAIN-SUFFIX,dl.google.com
-DOMAIN-SUFFIX,dl.l.google.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,googletagservices.com
-DOMAIN-SUFFIX,gtm.oasisfeng.com
-DOMAIN-SUFFIX,mtalk.google.com
-DOMAIN-SUFFIX,ocsp.pki.goog
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,safebrowsing-cache.google.com
-DOMAIN-SUFFIX,settings.crashlytics.com
-DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
-DOMAIN-SUFFIX,toolbarqueries.google.com
-DOMAIN-SUFFIX,tools.google.com
-DOMAIN-SUFFIX,tools.l.google.com
-DOMAIN-SUFFIX,www-googletagmanager.l.google.com
-
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
-IP-CIDR,120.232.181.162/32,no-resolve
-IP-CIDR,120.241.147.226/32,no-resolve
-IP-CIDR,120.253.253.226/32,no-resolve
-IP-CIDR,120.253.255.162/32,no-resolve
-IP-CIDR,120.253.255.34/32,no-resolve
-IP-CIDR,120.253.255.98/32,no-resolve
-IP-CIDR,180.163.150.162/32,no-resolve
-IP-CIDR,180.163.150.34/32,no-resolve
-IP-CIDR,180.163.151.162/32,no-resolve
-IP-CIDR,180.163.151.34/32,no-resolve
-IP-CIDR,203.208.39.0/24,no-resolve
-IP-CIDR,203.208.40.0/24,no-resolve
-IP-CIDR,203.208.41.0/24,no-resolve
-IP-CIDR,203.208.43.0/24,no-resolve
-IP-CIDR,203.208.50.0/24,no-resolve
-IP-CIDR,220.181.174.162/32,no-resolve
-IP-CIDR,220.181.174.226/32,no-resolve
-IP-CIDR,220.181.174.34/32,no-resolve
-
 # Instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
-
 # Kakao Talk
-DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakao.co.kr
 DOMAIN-SUFFIX,kakaocdn.net
 IP-CIDR,1.201.0.0/24,no-resolve
@@ -6319,13 +6207,9 @@ IP-CIDR,103.27.148.0/22,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
 IP-CIDR,110.76.140.0/22,no-resolve
 IP-CIDR,113.61.104.0/22,no-resolve
-
 # Line
 DOMAIN-SUFFIX,lin.ee
-DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,nhncorp.jp
 IP-CIDR,103.2.28.0/24,no-resolve
@@ -6336,11 +6220,9 @@ IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
-
 # Oracle Cloud
 DOMAIN,cloud.oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
-
 # OneDrive
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
@@ -6355,43 +6237,23 @@ DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 #DOMAIN-SUFFIX,aria.microsoft.com
-
 # Porn
-DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,8teenxxx.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,bcvcdn.com
-DOMAIN-SUFFIX,bongacams.com
-DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,dditscdn.com
 DOMAIN-SUFFIX,livejasmin.com
-DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,rdtcdn.com
-DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,sb-cd.com
-DOMAIN-SUFFIX,spankbang.com
-DOMAIN-SUFFIX,t66y.com
-DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xnxx-cdn.com
-DOMAIN-SUFFIX,xnxx.com
-DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
-
 # Pixiv
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pximg.net
-
 # Spark
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,readdle.com
-DOMAIN-SUFFIX,smartmailcloud.com
-
 # Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
@@ -6399,9 +6261,7 @@ DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstat.us
@@ -6411,43 +6271,24 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steampipe.akamaized.net
-
 # TapTap
 DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
-
 # Twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-KEYWORD,ttvnw
-
 # Twitter
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
-
 # Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
-
 # TeraBox
-DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com
-
 # Whatsapp
-IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
@@ -6462,29 +6303,19 @@ IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,75.126.150.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
-
 # Wikipedia 维基相关域名
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
-
 #飞流直播
 DOMAIN-SUFFIX,neulion.com
 DOMAIN-SUFFIX,icntv.xyz
 DOMAIN-SUFFIX,flzbcdn.xyz
-
 #华文电视
 DOMAIN-SUFFIX,ocnttv.com
-
 # VikACG
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
