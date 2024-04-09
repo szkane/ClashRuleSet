@@ -6195,7 +6195,7 @@ DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,tools.l.google.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 # Google China
-# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
+DOMAIN-SUFFIX,services.googleapis.cn
 # Instagram
 DOMAIN-SUFFIX,instagr.am
 # Kakao Talk
