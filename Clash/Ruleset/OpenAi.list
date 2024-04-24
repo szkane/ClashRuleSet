@@ -108,6 +108,9 @@ DOMAIN-SUFFIX,usefathom.com
 #poe
 DOMAIN-SUFFIX,poe.com
 
-#bard Google Gemini
-DOMAIN-SUFFIX,bard.google.com
+#Google Gemini
+perplexity.aibard.google.com
 DOMAIN-SUFFIX,waa-pa.clients6.google.com
+
+#perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
