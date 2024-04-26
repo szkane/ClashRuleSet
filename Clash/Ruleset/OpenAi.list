@@ -98,9 +98,8 @@ DOMAIN-SUFFIX,ewlmaakam.staging-bing-int.com
 DOMAIN-SUFFIX,bngpiglbalmenaabohcooocpnljgfemj
 DOMAIN-SUFFIX,rwww.bing.com
 
-
-
-#claude2
+#claude
+DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,usefathom.com
