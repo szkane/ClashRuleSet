@@ -1,5 +1,6 @@
 #CiciAI
 DOMAIN-KEYWORD,ciciai
+DOMAIN-KEYWORD,byteoversea
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,vcs-sg.byteoversea.com
 DOMAIN-SUFFIX,vmweb-va.ciciai.com
@@ -7,6 +8,9 @@ DOMAIN-SUFFIX,mcs-va.ciciai.com
 DOMAIN-SUFFIX,lf-rc1.yhgfb-static.com
 DOMAIN-SUFFIX,itobsnssdk.com
 DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,abtestvm-sg.bytedance.com
+DOMAIN-SUFFIX,starling-oversea.byteoversea.com
+DOMAIN-SUFFIX,sf16-tcc-tos-sg.byteoversea.com
 
 #MarsCode
 DOMAIN-SUFFIX,marscode.com
