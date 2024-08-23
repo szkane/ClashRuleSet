@@ -115,4 +115,5 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,waa-pa.clients6.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
-
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,ai.google
