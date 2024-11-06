@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,pdfwifi.com
 DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,zhenguanyu.com
 DOMAIN-SUFFIX,snapdrop.net
+DOMAIN-SUFFIX,iamkane.com
+
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
@@ -26,6 +28,7 @@ DOMAIN-SUFFIX,xn--io0a7i
 
 # 中国国内常见域名关键词直连
 DOMAIN-KEYWORD,360buy
+DOMAIN-KEYWORD,iamkane
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,alipay
