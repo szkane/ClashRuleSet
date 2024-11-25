@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,localhost
+DOMAIN-SUFFIX,orb.local #tun 模式下，让orbstack的域名正常访问 
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
