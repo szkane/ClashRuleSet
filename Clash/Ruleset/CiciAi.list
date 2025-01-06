@@ -1,4 +1,4 @@
-#CiciAI
+# CiciAI
 DOMAIN-KEYWORD,ciciai
 DOMAIN-KEYWORD,byteoversea
 DOMAIN-SUFFIX,ciciai.com
@@ -12,8 +12,9 @@ DOMAIN-SUFFIX,abtestvm-sg.bytedance.com
 DOMAIN-SUFFIX,starling-oversea.byteoversea.com
 DOMAIN-SUFFIX,sf16-tcc-tos-sg.byteoversea.com
 DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,byteintl.net
 
-#MarsCode CiciVersion
+# MarsCode CiciVersion
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,api.marscode.com
@@ -25,3 +26,17 @@ DOMAIN-SUFFIX,mcs.zijieapi.com
 DOMAIN-SUFFIX,mon.zijieapi.com
 DOMAIN-SUFFIX,lf-cdn.marscode.com
 DOMAIN-SUFFIX,abtestvm.bytedance.com
+
+
+# TikTok
+USER-AGENT,TikTok*
+DOMAIN-KEYWORD,tiktokcdn
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
