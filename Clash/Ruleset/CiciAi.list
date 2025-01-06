@@ -44,3 +44,5 @@ DOMAIN-SUFFIX,tiktokv.com
 # capcut
 DOMAIN-SUFFIX,ulikecam.com
 DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,capcutapi.com
+PROCESS-NAME,CapCut
