@@ -51,3 +51,11 @@ DOMAIN-SUFFIX,ulikecam.com
 DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,capcutapi.com
 PROCESS-NAME,CapCut
+
+
+#
+DOMAIN-KEYWORD,lemon8
+DOMAIN-SUFFIX,lemon8cdn.com
+DOMAIN-SUFFIX,lemon8-app.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,ibyteimg.com
