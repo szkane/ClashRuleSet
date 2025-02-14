@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,shodan.io
 DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-KEYWORD,huggingface
 
 # 国外域名
 DOMAIN-SUFFIX,eu
