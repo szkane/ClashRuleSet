@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,recraft.ai
 #poe
 DOMAIN-SUFFIX,poe.com
 
+#aitools
+PROCESS-NAME,LM Studio
+
 
 #bing chat
 DOMAIN-KEYWORD,bing
