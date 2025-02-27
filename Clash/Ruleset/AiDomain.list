@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
 
 #claude
+PROCESS-NAME,Claude
+PROCESS-NAME,Claude Helper
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
