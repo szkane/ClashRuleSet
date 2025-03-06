@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,shodan.io
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-KEYWORD,huggingface
+DOMAIN-SUFFIX,getepic.com
 
 # 国外域名
 DOMAIN-SUFFIX,eu
