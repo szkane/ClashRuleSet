@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
 
+
 #claude
 PROCESS-NAME,Claude
 PROCESS-NAME,Claude Helper
@@ -31,6 +32,7 @@ DOMAIN-SUFFIX,poe.com
 
 #aitools
 PROCESS-NAME,LM Studio
+DOMAIN-SUFFIX,lmsudio.ai
 
 #grok
 PROCESS-NAME,grok
