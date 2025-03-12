@@ -22,8 +22,12 @@ IP-CIDR,23.41.4.0/22,no-resolve
 #trae  + MarsCode Oversea version
 PROCESS-NAME,Trae Helper
 PROCESS-NAME,Trae Helper (Plugin)
+PROCESS-NAME,ai
+PROCESS-NAME,ai-agent
+PROCESS-NAME,ai-completion
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,mchost.guru
 
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,zijieapi.com
