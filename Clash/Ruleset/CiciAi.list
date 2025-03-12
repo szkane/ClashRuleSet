@@ -1,4 +1,6 @@
 # CiciAI
+PROCESS-NAME,Cici
+PROCESS-NAME,Cici Helper (Renderer)
 PROCESS-NAME,Cici Helper
 DOMAIN-KEYWORD,ciciai
 DOMAIN-KEYWORD,byteoversea
@@ -15,10 +17,14 @@ DOMAIN-SUFFIX,sf16-tcc-tos-sg.byteoversea.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteintl.net
 IP-CIDR,23.41.4.0/22,no-resolve
-PROCESS-NAME,Cici
-PROCESS-NAME,Cici Helper (Renderer)
 
-# MarsCode CiciVersion
+
+#trae  + MarsCode Oversea version
+PROCESS-NAME,Trae Helper
+PROCESS-NAME,Trae Helper (Plugin)
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,bytednsdoc.com
+
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,api.marscode.com
@@ -30,6 +36,7 @@ DOMAIN-SUFFIX,mcs.zijieapi.com
 DOMAIN-SUFFIX,mon.zijieapi.com
 DOMAIN-SUFFIX,lf-cdn.marscode.com
 DOMAIN-SUFFIX,abtestvm.bytedance.com
+
 
 
 
