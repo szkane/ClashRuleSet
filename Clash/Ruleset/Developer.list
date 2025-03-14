@@ -1,5 +1,6 @@
 # 内容：Developer 开发者常用国外网站、镜像和论坛
 # 数量：19条
+#image
 DOMAIN-KEYWORD,registry
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.com
@@ -24,3 +25,18 @@ DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,registry.gitlab.com
 DOMAIN-SUFFIX,mcr.microsoft.com
+#huggingface
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-KEYWORD,huggingface
+# Github
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gitbooks.io
+DOMAIN-SUFFIX,githack.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,rawgithub.com
