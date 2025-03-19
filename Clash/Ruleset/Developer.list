@@ -41,4 +41,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 
+#lmstudio
 DOMAIN-SUFFIX,lmstudio.ai
+#draw things
+DOMAIN-SUFFIX,static.libnnc.org
