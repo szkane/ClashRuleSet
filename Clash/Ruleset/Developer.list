@@ -27,7 +27,11 @@ DOMAIN-SUFFIX,registry.gitlab.com
 DOMAIN-SUFFIX,mcr.microsoft.com
 #huggingface
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
 DOMAIN-KEYWORD,huggingface
+
+
+
 # Github
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,git.io
