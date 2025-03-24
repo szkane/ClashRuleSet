@@ -40,6 +40,8 @@ DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 
+#perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
 
 
 #bing chat
