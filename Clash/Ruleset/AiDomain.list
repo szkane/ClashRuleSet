@@ -150,6 +150,7 @@ DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,clients6.google.com
 
 # Google move from ProxyGFWlist
 DOMAIN-KEYWORD,google
