@@ -19,3 +19,5 @@
 在订阅的 URL 上增加 config=[替换成下面 ini,或自定义]
 
 [https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/kclash.ini](https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/kclash.ini)
+
+订阅地址后面增加：`&config=https%3A%2F%2Fraw.githubusercontent.com%2Fszkane%2FClashRuleSet%2Frefs%2Fheads%2Fmain%2FClash%2Fkclash.ini`
