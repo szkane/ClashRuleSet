@@ -327,3 +327,7 @@ DOMAIN-SUFFIX,ably.io
 
 # > XAl.space
 DOMAIN-SUFFIX,XAl.space
+
+# SOL domain 
+DOMAIN-SUFFIX,sns.id
+DOMAIN-SUFFIX,airdrop.sns.id
