@@ -1477,7 +1477,6 @@ DOMAIN-SUFFIX,dnsrd.com
 DOMAIN-SUFFIX,dnssec.net
 DOMAIN-SUFFIX,dnvod.tv
 DOMAIN-SUFFIX,doc.new
-DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docs.cfw.lbyczf.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,doctorvoice.org
@@ -2609,7 +2608,6 @@ DOMAIN-SUFFIX,hudatoriq.web.id
 DOMAIN-SUFFIX,hudson.org
 DOMAIN-SUFFIX,huffingtonpost.com
 DOMAIN-SUFFIX,huffpost.com
-DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hugoroy.eu
 DOMAIN-SUFFIX,huhaitai.com
 DOMAIN-SUFFIX,huhamhire.com
@@ -4384,8 +4382,6 @@ DOMAIN-SUFFIX,raremovie.cc
 DOMAIN-SUFFIX,raremovie.net
 DOMAIN-SUFFIX,rateyourmusic.com
 DOMAIN-SUFFIX,rationalwiki.org
-DOMAIN-SUFFIX,rawgit.com
-DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,raxcdn.com
 DOMAIN-SUFFIX,razyboard.com
 DOMAIN-SUFFIX,rcinet.ca
