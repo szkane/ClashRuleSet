@@ -45,7 +45,11 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 
-#lmstudio
+# LM studio
 DOMAIN-SUFFIX,lmstudio.ai
-#draw things
+# draw things
 DOMAIN-SUFFIX,static.libnnc.org
+# OrbStack Helper
+PROCESS-NAME,OrbStack
+PROCESS-NAME,OrbStack Helper
+
