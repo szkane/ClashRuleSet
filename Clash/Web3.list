@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,wallet.okex.org
 PROCESS-NAME,OKX.exe
 DOMAIN-KEYWORD,okx
 
