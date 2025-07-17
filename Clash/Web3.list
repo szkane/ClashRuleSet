@@ -86,6 +86,15 @@ DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,bnbstatic.com
 
+# > BitGet
+DOMAIN-SUFFIX, bitget.com
+DOMAIN-SUFFIX, bitget.org
+DOMAIN-SUFFIX, bitget.club
+DOMAIN-SUFFIX, bitget.xyz
+DOMAIN-SUFFIX, bitgetapp.com
+DOMAIN-SUFFIX, bitgetapps.com
+DOMAIN-KEYWORD, bitget
+
 # > Huobi
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
