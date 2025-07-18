@@ -339,6 +339,11 @@ DOMAIN-SUFFIX,ably.io
 # > XAl.space
 DOMAIN-SUFFIX,XAl.space
 
-# SOL domain 
+# > SOL domain 
 DOMAIN-SUFFIX,sns.id
 DOMAIN-SUFFIX,airdrop.sns.id
+
+# > Arweave
+DOMAIN, ans-stats.decent.land
+DOMAIN-SUFFIX, ao-testnet.xyz
+DOMAIN-SUFFIX, ar-io.net
