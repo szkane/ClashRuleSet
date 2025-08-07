@@ -2,7 +2,6 @@
 DOMAIN-SUFFIX,abs.xyz
 DOMAIN-SUFFIX,nexus.xyz
 
-
 # > Forum
 DOMAIN-SUFFIX,bitcointalk.org
 
@@ -348,3 +347,23 @@ DOMAIN, ans-stats.decent.land
 DOMAIN-SUFFIX, ao-testnet.xyz
 DOMAIN-SUFFIX, ar-io.net
 DOMAIN-SUFFIX, ardrive.io
+DOMAIN-SUFFIX, arweave.net
+
+# > etc
+DOMAIN-SUFFIX, circle.com
+DOMAIN-SUFFIX, save.finance
+
+# > Sui
+DOMAIN-SUFFIX, sui.io
+DOMAIN-SUFFIX, sui.rpcpool.com
+DOMAIN-SUFFIX, suiet.app
+DOMAIN-SUFFIX, suiscan.xyz
+DOMAIN-SUFFIX, suivision.xyz
+DOMAIN-SUFFIX, slush.app
+DOMAIN-SUFFIX, sm.xyz
+
+# >> Sui Protocols
+DOMAIN-SUFFIX, cetus.zone
+DOMAIN-SUFFIX, naviprotocol.io
+DOMAIN-SUFFIX, llama.fi
+DOMAIN-SUFFIX, suilend.fi
