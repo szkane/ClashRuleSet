@@ -2,7 +2,6 @@
 DOMAIN-SUFFIX,abs.xyz
 DOMAIN-SUFFIX,nexus.xyz
 
-
 # > Forum
 DOMAIN-SUFFIX,bitcointalk.org
 
@@ -85,6 +84,15 @@ DOMAIN-KEYWORD,binance
 # > Binance API
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,bnbstatic.com
+
+# > BitGet
+DOMAIN-SUFFIX, bitget.com
+DOMAIN-SUFFIX, bitget.org
+DOMAIN-SUFFIX, bitget.club
+DOMAIN-SUFFIX, bitget.xyz
+DOMAIN-SUFFIX, bitgetapp.com
+DOMAIN-SUFFIX, bitgetapps.com
+DOMAIN-KEYWORD, bitget
 
 # > Huobi
 DOMAIN-SUFFIX,hbabit.com
@@ -330,6 +338,32 @@ DOMAIN-SUFFIX,ably.io
 # > XAl.space
 DOMAIN-SUFFIX,XAl.space
 
-# SOL domain 
+# > SOL domain 
 DOMAIN-SUFFIX,sns.id
 DOMAIN-SUFFIX,airdrop.sns.id
+
+# > Arweave
+DOMAIN, ans-stats.decent.land
+DOMAIN-SUFFIX, ao-testnet.xyz
+DOMAIN-SUFFIX, ar-io.net
+DOMAIN-SUFFIX, ardrive.io
+DOMAIN-SUFFIX, arweave.net
+
+# > etc
+DOMAIN-SUFFIX, circle.com
+DOMAIN-SUFFIX, save.finance
+
+# > Sui
+DOMAIN-SUFFIX, sui.io
+DOMAIN-SUFFIX, sui.rpcpool.com
+DOMAIN-SUFFIX, suiet.app
+DOMAIN-SUFFIX, suiscan.xyz
+DOMAIN-SUFFIX, suivision.xyz
+DOMAIN-SUFFIX, slush.app
+DOMAIN-SUFFIX, sm.xyz
+
+# >> Sui Protocols
+DOMAIN-SUFFIX, cetus.zone
+DOMAIN-SUFFIX, naviprotocol.io
+DOMAIN-SUFFIX, llama.fi
+DOMAIN-SUFFIX, suilend.fi
