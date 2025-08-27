@@ -1,4 +1,11 @@
 # Mac Download
+PROCESS-NAME,夸克网盘 Helper
+PROCESS-NAME,BaiduNetdisk
+PROCESS-NAME,BaiduNetdisk Helper
+PROCESS-NAME,WeChatAppEx Helper
+
+
+# Windows Download
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,fdm.exe
 PROCESS-NAME,Folx.exe
@@ -9,6 +16,7 @@ PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,WebTorrent.exe
 PROCESS-NAME,WebTorrent Helper.exe
 PROCESS-NAME,qbittorrent.exe
+
 # bt
 DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2
