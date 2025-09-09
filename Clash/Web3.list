@@ -362,8 +362,11 @@ DOMAIN-SUFFIX, suivision.xyz
 DOMAIN-SUFFIX, slush.app
 DOMAIN-SUFFIX, sm.xyz
 
-# >> Sui Protocols
+# > Sui Protocols
 DOMAIN-SUFFIX, cetus.zone
 DOMAIN-SUFFIX, naviprotocol.io
 DOMAIN-SUFFIX, llama.fi
 DOMAIN-SUFFIX, suilend.fi
+
+# hyperliquid
+DOMAIN-SUFFIX, hyperliquid.xyz
