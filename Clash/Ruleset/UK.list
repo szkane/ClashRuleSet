@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,co.uk
+
 # BBCiPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
