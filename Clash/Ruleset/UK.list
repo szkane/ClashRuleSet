@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,co.uk
 
-# BBCiPlayer
+# BBCiPlayer  
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
@@ -17,3 +17,10 @@ DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bidi.net.uk
+
+# BITESIZE
+DOMAIN-SUFFIX,emp.bbc.co.uk
+DOMAIN-SUFFIX,emp.bbci.co.uk
+DOMAIN-SUFFIX,uk-script.dotmetrics.net
+DOMAIN-SUFFIX,rm-script.dotmetrics.net
+DOMAIN-SUFFIX,dotmetrics.net
