@@ -1,3 +1,4 @@
+# khanacademy
 DOMAIN-KEYWORD,khanacademy
 DOMAIN-KEYWORD,khanacademykids
 DOMAIN-SUFFIX,khanacademy.org
@@ -13,3 +14,7 @@ DOMAIN-SUFFIX,www.khanacademykids.org
 DOMAIN-SUFFIX,khanacademykids.org
 DOMAIN-SUFFIX,learn.khanacademy.org
 DOMAIN-SUFFIX,khankids.zendesk.com
+
+# epic
+DOMAIN-SUFFIX,getepic.com
+DOMAIN-SUFFIX,getepicapi.com
