@@ -27,6 +27,7 @@ DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,usefathom.com
+DOMAIN-SUFFIX,console.anthropic.com
 
 #recraft
 DOMAIN-SUFFIX,recraft.ai
