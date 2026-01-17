@@ -1,3 +1,11 @@
-DOMAIN-KEYWORD,seesaw.me
-DOMAIN-KEYWORD,raz-plus.com
-DOMAIN-KEYWORD,overdrive.com
+# DOMAIN-KEYWORD
+DOMAIN-KEYWORD,seesaw
+DOMAIN-KEYWORD,getepic
+DOMAIN-KEYWORD,overdrive
+
+# DOMAIN-SUFFIX
+DOMAIN-SUFFIX,seesaw.me
+DOMAIN-SUFFIX,raz-plus.com
+DOMAIN-SUFFIX,overdrive.com
+
+
