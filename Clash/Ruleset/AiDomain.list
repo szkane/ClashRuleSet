@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,cerebras.ai
 
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,datadoghq
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,a.nel.cloudflare.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
 
 #claude
 DOMAIN-KEYWORD,anthropic
