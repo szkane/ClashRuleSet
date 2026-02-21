@@ -6,7 +6,7 @@
 
 | 分流规则名称 | 说明                                                                                  |
 | ------------ | ------------------------------------------------------------------------------------- |
-| 🌈 OpenAI    | 需美国节点的 AI 服务，OpenAI、Claude、Grok、Perplexity、Google 服务与 Gemini 合并在此 |
+| 🇺🇲 美区AI    | 需美国节点的 AI 服务，OpenAI、Claude、Grok、Perplexity、Google 服务与 Gemini 合并在此 |
 | 🌈 CiciAI    | 建议使用新加坡节点，确保字节海外版的 APP 和 AI 服务可正常使用                         |
 | 👨‍💻 Developer | 建议使用流量大或免费节点，各种 docker 镜像、模型文件下载专用                          |
 | 🔒 Web3      | 建议使用自建的安全节点，避免出现安全风险                                              |
