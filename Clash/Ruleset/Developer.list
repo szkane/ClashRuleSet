@@ -31,6 +31,9 @@ DOMAIN-SUFFIX,hf.co
 DOMAIN-KEYWORD,huggingface
 
 
+DOMAIN-SUFFIX,r2.cloudflarestorage.com
+
+
 
 # Github
 DOMAIN-KEYWORD,github
