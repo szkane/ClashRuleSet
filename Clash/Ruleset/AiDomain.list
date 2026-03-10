@@ -57,11 +57,14 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,perplexity.ai
 
 #VS CODE AI chat
+PROCESS-NAME,Code Helper
+PROCESS-NAME,Code Helper (Plugin)
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,api.githubcopilot.com
-DOMAIN-SUFFIX,api.api.github.com
+DOMAIN-SUFFIX,api.github.com
 DOMAIN-SUFFIX,github.gallery.vsassets.io
 DOMAIN-SUFFIX,github.gallerycdn.vsassets.io
+DOMAIN-SUFFIX,applicationinsights.azure.com
 
 
 #bing chat
