@@ -56,6 +56,13 @@ DOMAIN-SUFFIX,grok.com
 #perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
 
+#VS CODE AI chat
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,api.githubcopilot.com
+DOMAIN-SUFFIX,api.api.github.com
+DOMAIN-SUFFIX,github.gallery.vsassets.io
+DOMAIN-SUFFIX,github.gallerycdn.vsassets.io
+
 
 #bing chat
 DOMAIN-KEYWORD,bing

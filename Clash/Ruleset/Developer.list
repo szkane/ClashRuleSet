@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,r2.cloudflarestorage.com
 
 
 # Github
-DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,githack.com
