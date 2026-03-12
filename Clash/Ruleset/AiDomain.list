@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,a.nel.cloudflare.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,ab.chatgpt.com
 
 #claude
 DOMAIN-KEYWORD,anthropic
