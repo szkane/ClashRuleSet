@@ -1,4 +1,4 @@
-# CiciAI
+# DolaAI
 PROCESS-NAME,Cici
 PROCESS-NAME,Cici Helper (Renderer)
 PROCESS-NAME,Cici Helper
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,starling-oversea.byteoversea.com
 DOMAIN-SUFFIX,sf16-tcc-tos-sg.byteoversea.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteintl.net
+DOMAIN-SUFFIX,mon-sg.byteintlapi.com
 IP-CIDR,23.41.4.0/22,no-resolve
 
 
@@ -33,14 +34,11 @@ DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,mchost.guru
 
 DOMAIN-SUFFIX,marscode.com
-DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,api.marscode.com
 DOMAIN-SUFFIX,api-sg-central.marscode.com
 DOMAIN-SUFFIX,mon-va.byteoversea.com
 DOMAIN-SUFFIX,sgali-mcs.byteoversea.com
 DOMAIN-SUFFIX,maliva-mcs.byteoversea.com
-DOMAIN-SUFFIX,mcs.zijieapi.com
-DOMAIN-SUFFIX,mon.zijieapi.com
 DOMAIN-SUFFIX,lf-cdn.marscode.com
 DOMAIN-SUFFIX,abtestvm.bytedance.com
 
