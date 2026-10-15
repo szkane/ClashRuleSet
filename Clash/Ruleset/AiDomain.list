@@ -75,7 +75,6 @@ DOMAIN-SUFFIX,applicationinsights.azure.com
 
 #bing chat
 DOMAIN-KEYWORD,bing
-DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,edgeassetservice
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,sydney.bing.com
